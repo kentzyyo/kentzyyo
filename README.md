@@ -13,6 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kentzyyo&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gotham" alt="kentzyyo" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kentzyyo&" alt="kentzyyo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kentzyyo&" alt="kentzyyo" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentzyyo&layout=donut)](https://github.com/kentzyyo/github-readme-stats)
