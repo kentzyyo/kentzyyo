@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌱 I'm currently learning more about AI and machine learning.
 - 💬 Ask me about anything related to JavaScript, Python, or AWS.
 - 📫 How to reach me: 
-  - Email: kentzyyo@example.com
-  - LinkedIn: [Kentzyyo](https://www.linkedin.com/in/kentzyyo/)
+  - Email: selwyn.onedo14@gmail.com
+  - LinkedIn: [kentzyyo](https://www.linkedin.com/in/selwyno%C3%B1edo/)
 - ⚡ Fun fact: I love hiking and outdoor adventures.
 
 ## 🛠️ Technologies & Tools
